@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling over-ear wireless headphones with high-fidelity sound.",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "description": "Fitness tracking smartwatch with heart rate monitor and GPS.",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass and 12-hour battery life.",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1512427691650-1f55d73b4ef2?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "description": "Ergonomic RGB gaming mouse with customizable buttons.",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1580894744599-82b9a4db0a63?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with blue switches and anti-ghosting keys.",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 6,
+    "name": "HD Webcam",
+    "description": "1080p HD webcam with built-in stereo microphone for crisp video calls.",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1587825140408-43be3b21e1ef?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 7,
+    "name": "USB-C Hub",
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1587825140566-39e0ae570b0c?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 8,
+    "name": "External Hard Drive",
+    "description": "2TB portable external hard drive with USB 3.1 support.",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1587825140633-cf7f29f92f3e?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Noise Cancelling Earbuds",
+    "description": "True wireless earbuds with active noise cancellation and wireless charging case.",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1516707570269-1c6dd5361baf?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 10,
+    "name": "4K Monitor",
+    "description": "27-inch 4K UHD monitor with HDR support and ultra-thin bezel.",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Wireless Charger",
+    "description": "Fast wireless charger pad compatible with Qi-enabled devices.",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Laptop Stand",
+    "description": "Aluminum ergonomic laptop stand with adjustable height.",
+    "price": 44.99,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=400&q=80"
+  }
+]
